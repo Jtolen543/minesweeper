@@ -30,7 +30,5 @@ This project is a classic implementation of the Minesweeper game, developed in C
    ```bash
    git clone https://github.com/yourusername/minesweeper-sfml
    cd minesweeper-sfml
-
-g++ -std=c++11 -o Minesweeper main.cpp -lsfml-graphics -lsfml-window -lsfml-system
-
-./Minesweeper
+   g++ -std=c++11 -o Minesweeper main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+   ./Minesweeper
